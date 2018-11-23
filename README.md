@@ -1,1 +1,1 @@
-这是一个storm的联系项目，主要实现的功能是使用HTTP长连接的方式结合storm，hbase来实时显示城市销售额，以及topN
+一个storm练习项目，包括一个完整的普通的storm练习和trident版本storm的练习。
